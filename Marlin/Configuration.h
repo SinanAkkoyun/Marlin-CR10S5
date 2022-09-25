@@ -1280,7 +1280,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET { -42, -12, -3.55 }
+#define NOZZLE_TO_PROBE_OFFSET { -42, -12, -2.70 } // for 0.4 // else -3.55
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
